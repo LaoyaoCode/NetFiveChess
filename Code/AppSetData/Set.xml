@@ -1,0 +1,25 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<AppSet>
+	<!-- 数据库文件目录  -->
+	<DataBaseDir>DBDir</DataBaseDir>
+	<!-- 用户数据库文件名 -->
+	<UserDataBaseFileName>User.s3db</UserDataBaseFileName>
+	<!-- 游戏数据库文件名 -->
+	<GameDataBaseFileName>Game.s3db</GameDataBaseFileName>
+	<!-- 程序错误记录文件名 -->
+	<AppErrorRecordFileName>ErrorRecord.txt</AppErrorRecordFileName>
+	<!-- 核心线程数目  -->
+	<CoreThreadNumber>30</CoreThreadNumber>
+	<!-- 最大线程数目  -->
+	<MaxThreadNumber>300</MaxThreadNumber>
+	<!-- 线程能够保持的最大时间（S为单位）  -->
+	<TKeepAliveTimeS>30</TKeepAliveTimeS>
+	<!-- 棋盘行列棋子数 -->
+	<ChessTableRC>13</ChessTableRC>
+	<!-- 程序端口数 -->
+	<PortNumber>22333</PortNumber>
+	<!-- 服务端套接字等待最大数目 -->
+	<MaxSSQueneNumber>100</MaxSSQueneNumber>
+	<!-- 一次游戏赢得的金钱树木 -->
+	<AGameWM>30</AGameWM>
+</AppSet>

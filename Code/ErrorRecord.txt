@@ -1,0 +1,52 @@
+<EM:null>#<CP:InputDisposeObj+run>#<T:2017-10-20 16:54>
+<EM:Socket closed>#<CP:InputDisposeObj+run>#<T:2017-10-21 11:48>
+<EM:null>#<CP:InputDisposeObj+run>#<T:2017-10-21 20:38>
+<EM:Socket closed>#<CP:InputDisposeObj+run>#<T:2017-10-21 20:39>
+<EM:Socket closed>#<CP:InputDisposeObj+run>#<T:2017-10-21 20:39>
+<EM:null>#<CP:InputDisposeObj+run>#<T:2017-10-21 20:45>
+<EM:null>#<CP:InputDisposeObj+run>#<T:2017-10-21 20:45>
+<EM:null>#<CP:InputDisposeObj+run>#<T:2017-10-21 20:46>
+<EM:null>#<CP:InputDisposeObj+run>#<T:2017-10-21 20:47>
+<EM:null>#<CP:InputDisposeObj+run>#<T:2017-10-21 20:53>
+<EM:null>#<CP:InputDisposeObj+run>#<T:2017-10-21 20:53>
+<EM:Socket closed>#<CP:InputDisposeObj+run>#<T:2017-10-21 20:57>
+<EM:Socket closed>#<CP:InputDisposeObj+run>#<T:2017-10-21 20:57>
+<EM:null>#<CP:InputDisposeObj+run>#<T:2017-10-21 21:01>
+<EM:null>#<CP:InputDisposeObj+run>#<T:2017-10-21 21:01>
+<EM:null>#<CP:InputDisposeObj+run>#<T:2017-10-21 21:06>
+<EM:null>#<CP:InputDisposeObj+run>#<T:2017-10-21 21:06>
+<EM:null>#<CP:InputDisposeObj+run>#<T:2017-10-21 21:11>
+<EM:null>#<CP:InputDisposeObj+run>#<T:2017-10-21 21:11>
+<EM:null>#<CP:InputDisposeObj+run>#<T:2017-10-21 21:16>
+<EM:null>#<CP:InputDisposeObj+run>#<T:2017-10-21 21:16>
+<EM:Socket closed>#<CP:+SendData>#<T:2017-10-21 21:16>
+<EM:Socket closed>#<CP:InputDisposeObj+run>#<T:2017-10-21 21:26>
+<EM:Socket closed>#<CP:InputDisposeObj+run>#<T:2017-10-21 21:26>
+<EM:null>#<CP:InputDisposeObj+run>#<T:2017-10-21 21:28>
+<EM:Socket closed>#<CP:InputDisposeObj+run>#<T:2017-10-21 21:28>
+<EM:null>#<CP:InputDisposeObj+run>#<T:2017-10-22 10:25>
+<EM:null>#<CP:InputDisposeObj+run>#<T:2017-10-22 10:25>
+<EM:null>#<CP:InputDisposeObj+run>#<T:2017-10-22 10:31>
+<EM:null>#<CP:InputDisposeObj+run>#<T:2017-10-22 10:31>
+<EM:null>#<CP:InputDisposeObj+run>#<T:2017-10-22 10:37>
+<EM:null>#<CP:InputDisposeObj+run>#<T:2017-10-22 10:37>
+<EM:null>#<CP:InputDisposeObj+run>#<T:2017-10-22 10:43>
+<EM:null>#<CP:InputDisposeObj+run>#<T:2017-10-22 10:43>
+<EM:null>#<CP:InputDisposeObj+run>#<T:2017-10-22 10:45>
+<EM:null>#<CP:InputDisposeObj+run>#<T:2017-10-22 10:45>
+<EM:Socket closed>#<CP:InputDisposeObj+run>#<T:2017-10-22 10:54>
+<EM:Socket closed>#<CP:InputDisposeObj+run>#<T:2017-10-22 10:54>
+<EM:null>#<CP:InputDisposeObj+run>#<T:2017-10-22 11:08>
+<EM:null>#<CP:InputDisposeObj+run>#<T:2017-10-22 11:08>
+<EM:null>#<CP:InputDisposeObj+run>#<T:2017-10-22 11:22>
+<EM:null>#<CP:InputDisposeObj+run>#<T:2017-10-22 11:22>
+<EM:Connection reset>#<CP:InputDisposeObj+run>#<T:2017-10-24 19:38>
+<EM:Connection reset>#<CP:InputDisposeObj+run>#<T:2017-10-24 19:38>
+<EM:null>#<CP:InputDisposeObj+run>#<T:2017-10-24 19:45>
+<EM:null>#<CP:InputDisposeObj+run>#<T:2017-10-24 19:45>
+<EM:null>#<CP:InputDisposeObj+run>#<T:2017-10-24 20:00>
+<EM:null>#<CP:InputDisposeObj+run>#<T:2017-10-24 20:00>
+<EM:null>#<CP:InputDisposeObj+run>#<T:2017-10-24 20:01>
+<EM:null>#<CP:InputDisposeObj+run>#<T:2017-10-26 16:07>
+<EM:Socket closed>#<CP:InputDisposeObj+run>#<T:2017-10-26 16:07>
+<EM:Socket closed>#<CP:InputDisposeObj+run>#<T:2017-10-26 16:07>
